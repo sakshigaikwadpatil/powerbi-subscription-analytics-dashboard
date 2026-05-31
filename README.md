@@ -7,6 +7,33 @@ Customer Churn & Revenue Analysis Dashboard built using Power BI and DAX.
 This Power BI project looks at subscription customer data. It helps us see revenue trends customers who stop using the service and how subscriptions are doing.
 
 The dashboard gives us information, about customer behavior. It uses numbers, charts and filters to help us understand.
+## Skills Demonstrated
+
+- Power BI
+- DAX
+- Data Modeling
+- Data Visualization
+- KPI Reporting
+- Dashboard Design
+- Business Intelligence
+- Customer Analytics
+- Churn Analysis
+
+  ## Dashboard Features
+
+✅ Revenue Analysis
+
+✅ Customer Churn Tracking
+
+✅ ARPU Calculation
+
+✅ Active vs Cancelled Customer Analysis
+
+✅ Monthly Customer Growth Tracking
+
+✅ Interactive Slicers
+
+✅ Subscription Plan Analysis
 
 ## Dashboard Preview
 
