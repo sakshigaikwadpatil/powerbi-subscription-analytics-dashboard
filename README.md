@@ -1,4 +1,6 @@
-# 📊 Subscription Analytics Dashboard
+# 📊 Subscription Analytics Dashboard | Power BI
+
+Customer Churn & Revenue Analysis Dashboard built using Power BI and DAX.
 
 ## Overview
 
